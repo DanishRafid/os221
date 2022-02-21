@@ -17,7 +17,7 @@ permalink: LINKS/
 
 3. [Operating System Concepts 10th Edition](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)</br>
 
-4. [https://os.vlsm.org/](https://os.vlsm.org/)</br>
+4. [os.vlsm.org](https://os.vlsm.org/)</br>
 
 <br>
 <hr>
