@@ -13,11 +13,11 @@ permalink: LINKS/
 
 1. [Youtube](https://www.youtube.com/)<br>
 
-2. [Google](https://www.google.com/)</br>
+2. [Google](https://www.google.com/)
 
-3. [Operating System Concepts 10th Edition](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)</br>
+3. [Operating System Concepts 10th Edition](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
 
-4. [os.vlsm.org](https://os.vlsm.org/)</br>
+4. [os.vlsm.org](https://os.vlsm.org/)
 
 <br>
 <hr>
