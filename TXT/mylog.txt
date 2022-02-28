@@ -11,4 +11,5 @@ ZCZC W01 90 L11 assignment 1
 ZCZC W01 55 L04 editing github
 ZCZC W01 15 L05 QUIZ
 ZCZC W02 180 L02 Zoom Class
-ZCZC W02 60 L12 assignment 2
+ZCZC W02 180 L12 assignment 2
+ZCZC W02 15 L05 QUIZ
